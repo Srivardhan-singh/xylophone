@@ -38,7 +38,6 @@ class XylophoneApp extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
-              Button
               playButton(Colors.red, 1, ""),
               playButton(Colors.orange, 2, ""),
               playButton(Colors.yellow, 3, ""),
